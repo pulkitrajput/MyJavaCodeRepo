@@ -1,2 +1,0 @@
-# MyJavaCodeRepo
-MyJavaCodeRepository
